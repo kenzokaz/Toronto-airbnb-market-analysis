@@ -61,7 +61,7 @@ An interactive two-dashboard Tableau analysis of **Toronto Airbnb listings (2026
 
 ---
 
-## 📁 Files
+## Files
 
 | File | Description |
 |------|-------------|
@@ -71,13 +71,13 @@ An interactive two-dashboard Tableau analysis of **Toronto Airbnb listings (2026
 
 ---
 
-## 🛠 Tools
+## Tools
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🎓 Context
+## Context
 
 Built as a data analytics project. Dataset sourced from publicly available Airbnb listing data for Toronto (Inside Airbnb, 2026).
